@@ -30,7 +30,7 @@ Feel free to explore my public repositories
 [![pyspark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge)](https://spark.apache.org/docs/latest/api/python/index.html)
 [![apache airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white&style=for-the-badge)](https://airflow.apache.org/)
 [![databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white&style=for-the-badge)](https://www.databricks.com/)
-[![tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)]()
+[![tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)](https://www.tableau.com/)
 [![git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com/)
 [![firefox](https://img.shields.io/badge/-Firefox-FF7139?logo=firefox&logoColor=white&style=for-the-badge)](https://www.mozilla.org/en-US/firefox/)
 [![insomnia](https://img.shields.io/badge/-Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge)](https://insomnia.rest/)
