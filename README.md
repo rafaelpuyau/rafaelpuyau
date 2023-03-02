@@ -2,7 +2,7 @@
 
 Welcome to my github profile! 
 
-At the moment I work on ![Wilson Sons](https://www.wilsonsons.com.br/pt-br/) as Data Engineer and I teach Python and Data Science on ![Infinity School](http://infinityschool.com.br/).
+At the moment I work on [![Wilson Sons](https://www.wilsonsons.com.br/pt-br/)] as Data Engineer and I teach Python and Data Science on [![Infinity School](http://infinityschool.com.br/)].
 
 I study every single day to keep me up-to-date and improve my career.
 
